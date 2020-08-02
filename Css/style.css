@@ -10,7 +10,7 @@ font-face {
 }
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
 
-#main {
+#indexMain {
     background-image: url(../Img/urban-2004494_1920.jpg) ;
      height: 900px ;
 }
