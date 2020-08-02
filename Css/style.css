@@ -10,14 +10,8 @@ font-face {
 }
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
 
-.img-menu a {
-    font-family: 'Roboto';
-    color: #c0c0c0;
-    border: 2px solid ;
+#main {
+    background-image: url(../Img/urban-2004494_1920.jpg) ;
+     height: 900px ;
 }
-div  {
-    background-color: rgb(238, 255, 0);
-    height: 100px;
-}
-
-}
+    
