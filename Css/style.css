@@ -26,4 +26,7 @@ font-face {
     background-image: url(../Img/urban-2004494_1920.jpg) ;
      height: 900px ;
 }
+.container {
+    padding-top: 90px;
+}
     
