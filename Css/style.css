@@ -11,7 +11,7 @@ font-face {
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
 
 #indexMain {
-    background-image: url(../Img/urban-2004494_1920.jpg) ;
+    background-image: url(../Img/office-1081807_1920.jpg) ;
      height: 900px ;
 }
 #menuMain {
@@ -29,4 +29,11 @@ font-face {
 .container {
     padding-top: 90px;
 }
-    
+.container-fluid {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+#greetings {
+    background-color: rgba(0, 0, 0, 0.25);
+    margin: 0;
+}
+
